@@ -1,0 +1,69 @@
+
+body {
+}
+
+header {
+	text-align: center;
+	display: block;
+	margin: 10px;
+	padding: 0px 15px 0px 15px;
+}
+
+section {
+	margin: 10px;
+	padding: 0px 15px 0px 15px;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Rammetto One', cursive;
+	font-size: 60px;
+	color: purple;
+
+}
+
+p {
+	font-family: sans-serif;
+}
+
+.crystal-img {
+	width: 125px;
+}
+
+#targetNumber {
+}
+
+#crystals {
+	margin: 10px;
+	padding: 0px 15px 0px 15px;
+
+}
+
+.crystaldiv {
+	text-align: center;
+}
+
+#targetNumber {
+	text-align: center;
+}
+
+#total-score {
+	text-align: center;
+}
+
+#wins {
+	font-size: 24px;
+	font-weight: bold;
+	color: green;
+}
+
+#losses {
+	font-size: 24px;
+	font-weight: bold;
+	color: red;
+}
+
+#scoreboard {
+	text-align: center;
+	margin-bottom: 20px;
+}
